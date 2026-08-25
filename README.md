@@ -29,5 +29,5 @@ Our goal is to contribute useful technology to the broader AI, healthcare, and o
 
 **Forus Health** — *Technology for accessible eye care.*
 
-🌐 **Website:** [forushealth.com](https://forushealth.com/)
-🤖 **AI:** ForusHealth-AI
+🌐 **Forus Health:** [forushealth.com](https://forushealth.com/)
+🤖 **Forus Health AI:** [forushealth.ai](https://forushealth.ai/)
